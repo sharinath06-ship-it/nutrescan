@@ -2118,10 +2118,17 @@ if st.session_state.page == "Home":
 
     st.write(
         """
-        NutriScan scans packaged-food ingredient lists,
-        extracts the text using OCR, and compares the
-        detected ingredients with your ingredient database.
+        NutriScan is an academic project that helps you explore
+        packaged-food labels. Upload a photo of an ingredient list
+        to see the ingredients it detects and learn about possible
+        concerns using NutriScan's ingredient database.
         """
+    )
+
+    st.caption(
+        "This prototype may miss or misread ingredients. Its results are "
+        "for learning only, not medical advice; always check the product "
+        "label and consult a qualified professional about health concerns."
     )
 
     st.divider()
