@@ -100,7 +100,7 @@ OCR_AVAILABLE = RAPID_AVAILABLE or PADDLE_AVAILABLE
 
 st.set_page_config(
     page_title="NutriScan",
-    page_icon="logo.png",
+    page_icon="logo.svg",
     layout="centered"
 )
 
@@ -1963,9 +1963,16 @@ def get_product_specific_alternatives(product_name):
 
 with st.sidebar:
 
-    st.markdown(
-        "## 🥗 NutriScan"
+    logo_column, title_column = st.columns(
+        [1, 4],
+        vertical_alignment="center"
     )
+
+    with logo_column:
+        st.image("logo.svg", width=42)
+
+    with title_column:
+        st.markdown("## NutriScan")
 
     st.caption(
         "Food Ingredient Analyzer"
