@@ -5,4 +5,5 @@ reportlab
 Pillow
 rapidfuzz
 rapidocr-onnxruntime
+paddleocr
 supabase
