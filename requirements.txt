@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-dotenv
+reportlab
+Pillow
+rapidfuzz
+rapidocr-onnxruntime
+supabase
