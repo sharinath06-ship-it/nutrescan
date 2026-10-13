@@ -30,3 +30,8 @@ support Python 3.13.
 
 The `packages.txt` file lists the Linux system libraries OpenCV needs for OCR
 on Streamlit Community Cloud.
+
+To enable password-reset emails, add `GMAIL_USER` and `GMAIL_APP_PASSWORD` as
+root-level entries in the app's Streamlit secrets. Generate a Gmail app
+password from a Google account with 2-Step Verification enabled. Reset codes
+are not displayed when email delivery is unconfigured.

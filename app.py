@@ -2428,6 +2428,14 @@ elif st.session_state.page == "Forgot":
                 "No account found with this email."
             )
 
+        elif not EMAIL_AVAILABLE or not is_configured():
+
+            st.warning(
+                "Password reset email is not configured. "
+                "Ask the app administrator to add GMAIL_USER and "
+                "GMAIL_APP_PASSWORD in the app's Streamlit secrets."
+            )
+
         else:
 
             otp = str(
@@ -2435,40 +2443,29 @@ elif st.session_state.page == "Forgot":
                 + 100000
             )
 
-            st.session_state.otp = otp
-            st.session_state.reset_email = (
-                email.lower().strip()
+            user_name = sb_get_user_name(email)
+            success, message = send_otp_email(
+                email.lower().strip(),
+                otp,
+                user_name
             )
-
-            st.session_state.otp_verified = False
-
-            # ------------------------------------------------
-            # SEND OTP VIA EMAIL
-            # ------------------------------------------------
-
-            if EMAIL_AVAILABLE and is_configured():
-                user_name = sb_get_user_name(email)
-                success, message = send_otp_email(
-                    email.lower().strip(),
-                    otp,
-                    user_name
+            if success:
+                st.session_state.otp = otp
+                st.session_state.reset_email = (
+                    email.lower().strip()
                 )
-                if success:
-                    st.success(
-                        "OTP sent! Please check your email."
-                    )
-                    st.session_state.page = "Verify OTP"
-                else:
-                    st.error(
-                        "Failed to send OTP email: " + message
-                    )
-            else:
-                st.warning(
-                    "EMAIL SERVICE NOT CONFIGURED. "
-                    "DEMO MODE: Your OTP is shown below."
+                st.session_state.otp_verified = False
+                st.success(
+                    "OTP sent! Please check your email."
                 )
-                st.code(otp)
                 st.session_state.page = "Verify OTP"
+            else:
+                st.session_state.otp = None
+                st.session_state.reset_email = ""
+                st.session_state.otp_verified = False
+                st.error(
+                    "Failed to send OTP email: " + message
+                )
 
 
 # ============================================================
