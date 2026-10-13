@@ -27,3 +27,6 @@ values or a local `.env` file.
 
 Select Python 3.12 for the deployment; the OCR runtime dependency does not yet
 support Python 3.13.
+
+The `packages.txt` file lists the Linux system libraries OpenCV needs for OCR
+on Streamlit Community Cloud.
