@@ -1,0 +1,27 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+venv311/
+
+# Runtime database (locked while app runs - do not commit)
+database/nutriscan.db
+database/*.bak
+nutriscan_users.db
+*.db
+
+# User uploads and generated reports
+uploads/
+reports/
+data/*.json
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

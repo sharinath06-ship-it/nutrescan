@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+# NutriScan
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+NutriScan is an AI-powered food ingredient analysis project for recognizing ingredients and identifying potential health concerns. The Streamlit application entry point is `app.py`.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Local environment files, databases, uploads, reports, and stored user/scan data are excluded from this repository.

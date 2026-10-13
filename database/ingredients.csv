@@ -1,0 +1,396 @@
+ingredient,aliases,category
+Sugar,"Sucrose,Added Sugar,Cane Sugar,Table Sugar",Sugar
+Glucose,"Glucose Syrup,Dextrose",Sugar
+Fructose,"Fruit Sugar,Fructose Syrup",Sugar
+Maltose,Malt Sugar,Sugar
+Maltodextrin,"INS1400,Maltodextrine",Carbohydrate
+High Fructose Corn Syrup,"HFCS,Glucose-Fructose Syrup,Fructose-Glucose Syrup",Sweetener
+Corn Syrup,"Glucose Syrup,Corn Sweetener",Sweetener
+Invert Sugar,"Inverted Sugar,Invert Syrup",Sweetener
+Palm Oil,"Palmolein,Palm Fat,Palm Fat Powder,Palm Kernel Oil",Oil/Fat
+Vegetable Oil,"Edible Vegetable Oil,Refined Vegetable Oil",Oil/Fat
+Hydrogenated Vegetable Oil,"Hydrogenated Oil,Partially Hydrogenated Vegetable Oil,PHO",Oil/Fat
+Vanaspati,"Hydrogenated Vegetable Fat,Vegetable Shortening",Oil/Fat
+Shortening,"Vegetable Shortening,Hydrogenated Shortening",Oil/Fat
+Butter Fat,"Milk Fat,Butter Oil",Oil/Fat
+Salt,"Sodium Chloride,Iodized Salt,Iodised Salt",Mineral
+Monosodium Glutamate,"MSG,INS621,E621,INS 621",Flavor Enhancer
+Disodium 5'-Ribonucleotides,"INS635,E635,Flavour Enhancer 635,Flavour Enhancer (635)",Flavor Enhancer
+Disodium Inosinate,"INS631,E631",Flavor Enhancer
+Disodium Guanylate,"INS627,E627",Flavor Enhancer
+Disodium Succinate,"INS364,E364",Flavor Enhancer
+Artificial Flavor,"Artificial Flavour,Artificial Flavouring",Flavoring
+Nature Identical Flavouring Substances,"Nature Identical Flavor,Nature Identical Flavour,Nature Identical Flavouring",Flavoring
+Natural Flavours,"Natural Flavor,Natural Flavour,Natural Flavours",Flavoring
+Sodium Benzoate,"INS211,E211,INS 211",Preservative
+Potassium Sorbate,"INS202,E202,INS 202",Preservative
+Sorbic Acid,"INS200,E200",Preservative
+Benzoic Acid,"INS210,E210",Preservative
+Potassium Benzoate,"INS212,E212",Preservative
+Calcium Propionate,"INS282,E282",Preservative
+Sodium Propionate,"INS281,E281",Preservative
+Propionic Acid,"INS280,E280",Preservative
+Sodium Metabisulfite,"INS223,E223,Sodium Metabisulphite",Preservative
+Potassium Metabisulfite,"INS224,E224,Potassium Metabisulphite",Preservative
+Sulfur Dioxide,"INS220,E220,Sulphur Dioxide",Preservative
+Sodium Sulfite,"INS221,E221,Sodium Sulphite",Preservative
+Sodium Bisulfite,"INS222,E222,Sodium Bisulphite",Preservative
+BHA,"INS320,E320,Butylated Hydroxyanisole",Antioxidant
+BHT,"INS321,E321,Butylated Hydroxytoluene",Antioxidant
+TBHQ,"INS319,E319,Tertiary Butylhydroquinone",Antioxidant
+Propyl Gallate,"INS310,E310",Antioxidant
+Potassium Bromate,"INS924,E924",Flour Improver
+Azodicarbonamide,"ADA,INS927a",Flour Improver
+L-Cysteine,"INS920,E920,Cysteine",Flour Improver
+Titanium Dioxide,"INS171,E171,Titanium White",Artificial Color
+Tartrazine,"E102,INS102,Yellow 5,FD&C Yellow No. 5",Artificial Color
+Sunset Yellow,"E110,INS110,Yellow 6,FD&C Yellow No. 6",Artificial Color
+Carmoisine,"E122,INS122,Azorubine",Artificial Color
+Ponceau 4R,"E124,INS124,Ponceau Red 4R",Artificial Color
+Allura Red,"E129,INS129,Red 40,FD&C Red No. 40",Artificial Color
+Brilliant Blue FCF,"E133,INS133,Blue 1,FD&C Blue No. 1",Artificial Color
+Indigo Carmine,"E132,INS132,Blue 2,FD&C Blue No. 2",Artificial Color
+Erythrosine,"E127,INS127,Red 3,FD&C Red No. 3",Artificial Color
+Quinoline Yellow,"E104,INS104",Artificial Color
+Ponceau SX,"E125,INS125",Artificial Color
+Aspartame,"INS951,E951",Artificial Sweetener
+Sucralose,"INS955,E955",Artificial Sweetener
+Saccharin,"INS954,E954,Saccharin Sodium",Artificial Sweetener
+Acesulfame Potassium,"INS950,E950,Acesulfame K,Ace K",Artificial Sweetener
+Cyclamate,"INS952,E952,Sodium Cyclamate,Calcium Cyclamate",Artificial Sweetener
+Neotame,"INS961,E961",Artificial Sweetener
+Advantame,"INS969,E969",Artificial Sweetener
+Sodium Nitrite,"INS250,E250",Curing Agent
+Potassium Nitrite,"INS249,E249",Curing Agent
+Sodium Nitrate,"INS251,E251",Curing Agent
+Potassium Nitrate,"INS252,E252",Curing Agent
+Carrageenan,"INS407,E407",Thickener
+Carboxymethyl Cellulose,"CMC,INS466,E466,Sodium Carboxymethyl Cellulose",Thickener
+Polysorbate 80,"INS433,E433,Polyoxyethylene Sorbitan Monooleate",Emulsifier
+Polysorbate 60,"INS435,E435,Polyoxyethylene Sorbitan Monostearate",Emulsifier
+Mono and Diglycerides,"INS471,E471,Mono- and Diglycerides of Fatty Acids",Emulsifier
+DATEM,"INS472e,E472e,Diacetyl Tartaric Acid Esters of Mono and Diglycerides",Emulsifier
+Propylene Glycol,"INS1520,E1520",Humectant
+Sodium Stearoyl Lactylate,"INS481,E481,SSL",Emulsifier
+Calcium Stearoyl Lactylate,"INS482,E482,CSL",Emulsifier
+Glycerol,"INS422,E422,Glycerin,Glycerine",Humectant
+Sodium Acid Pyrophosphate,"INS450(i),E450,Disodium Pyrophosphate",Leavening Agent
+Disodium Phosphate,"INS339(ii),E339(ii)",Acidity Regulator
+Monosodium Phosphate,"INS339(i),E339(i)",Acidity Regulator
+Sodium Citrate,"INS331,E331",Acidity Regulator
+Citric Acid,"INS330,E330",Acidity Regulator
+Phosphoric Acid,"INS338,E338",Acidity Regulator
+Malic Acid,"INS296,E296",Acidity Regulator
+Fumaric Acid,"INS297,E297",Acidity Regulator
+Sodium Benzoate,"E211,INS211",Preservative
+Potassium Sorbate,"E202,INS202",Preservative
+Sodium Alginate,"INS401,E401",Stabilizer
+Xanthan Gum,"INS415,E415",Thickener
+Guar Gum,"INS412,E412",Thickener
+Modified Starch,"Modified Food Starch,Modified Corn Starch,INS1400-1451",Modified Starch
+Modified Corn Starch,Modified Maize Starch,Modified Starch
+Silicon Dioxide,"INS551,E551,Silica",Anti-caking Agent
+Sodium Ferrocyanide,"INS535,E535",Anti-caking Agent
+Potassium Ferrocyanide,"INS536,E536",Anti-caking Agent
+Calcium Silicate,"INS552,E552",Anti-caking Agent
+Butylated Hydroxyanisole,"BHA,INS320,E320",Antioxidant
+Butylated Hydroxytoluene,"BHT,INS321,E321",Antioxidant
+Tertiary Butylhydroquinone,"TBHQ,INS319,E319",Antioxidant
+Propyl Gallate,"INS310,E310",Antioxidant
+Ethoxyquin,"E324,INS324",Antioxidant
+Partially hydrogenated oil,PHO|partially hydrogenated vegetable oil|hydrogenated oil,HIGH - Trans fat source
+Trans fat,trans-fat|trans fatty acids|trans fatty acid,HIGH - Trans fat
+Vanaspati,vanaspati|vegetable shortening,HIGH - Hydrogenated fat
+Palm oil,palmolein|palm olein|palm kernel oil|palm kernel fat,MEDIUM - Saturated fat source
+Coconut oil,coconut fat,MEDIUM - Saturated fat source
+Sugar,sucrose|cane sugar|refined sugar|sugar syrup,HIGH - Free sugar
+Glucose syrup,glucose syrup|corn syrup|glucose-fructose syrup,HIGH - Added sugar
+High fructose corn syrup,HFCS|high-fructose corn syrup,HIGH - Added sugar
+Invert syrup,invert sugar|invert syrup,HIGH - Added sugar
+Salt,sodium chloride|common salt|table salt|iodized salt,HIGH - Sodium
+Monosodium glutamate,MSG|E621|INS 621|621,LOW - Flavour enhancer
+Disodium inosinate,E631|INS 631|631|inosinate,LOW - Flavour enhancer
+Disodium guanylate,E627|INS 627|627|guanylate,LOW - Flavour enhancer
+Sodium benzoate,E211|INS 211|211|benzoate,MEDIUM - Preservative
+Potassium sorbate,E202|INS 202|202|sorbate,MEDIUM - Preservative
+Sulfur dioxide,E220|INS 220|220|sulphur dioxide|sulfite,MEDIUM - Preservative
+Sodium metabisulfite,E223|INS 223|223|metabisulfite,MEDIUM - Preservative
+BHA,butylated hydroxyanisole|E320|INS 320|320,MEDIUM - Antioxidant
+BHT,butylated hydroxytoluene|E321|INS 321|321,MEDIUM - Antioxidant
+TBHQ,tert-butylhydroquinone|tertiary butylhydroquinone|E319|INS 319|319,MEDIUM - Antioxidant
+Propyl gallate,E310|INS 310|310,MEDIUM - Antioxidant
+Tartrazine,E102|INS 102|102|FD&C Yellow 5|Yellow 5,MEDIUM - Synthetic colour
+Sunset Yellow FCF,E110|INS 110|110|FD&C Yellow 6|Yellow 6,MEDIUM - Synthetic colour
+Carmoisine,E122|INS 122|122|Azorubine,MEDIUM - Synthetic colour
+Ponceau 4R,E124|INS 124|124|Cochineal Red A,MEDIUM - Synthetic colour
+Erythrosine,E127|INS 127|127|Red 3,MEDIUM - Synthetic colour
+Brilliant Blue FCF,E133|INS 133|133|FD&C Blue 1|Blue 1,MEDIUM - Synthetic colour
+Indigo Carmine,E132|INS 132|132|FD&C Blue 2|Blue 2,MEDIUM - Synthetic colour
+Fast Green FCF,E143|INS 143|143|Green 3,MEDIUM - Synthetic colour
+Caramel colour,caramel|E150a|E150b|E150c|E150d|INS 150,LOW - Colour
+Citric acid,E330|INS 330|330,LOW - Acidity regulator
+Sodium citrate,E331|INS 331|331,LOW - Acidity regulator
+Sodium bicarbonate,baking soda|bicarbonate of soda|E500ii|INS 500(ii),LOW - Leavening agent
+Sodium acid pyrophosphate,SAPP|E450i|INS 450(i)|450(i),MEDIUM - Phosphate additive
+Polyglycerol polyricinoleate,PGPR|E476|INS 476|476,LOW - Emulsifier
+Lecithin,soy lecithin|sunflower lecithin|E322|INS 322|322,LOW - Emulsifier/allergen
+Mono- and diglycerides,mono diglycerides|mono and diglycerides|E471|INS 471|471,LOW - Emulsifier
+Aspartame,E951|INS 951|951,MEDIUM - Non-sugar sweetener
+Acesulfame potassium,acesulfame K|acesulfame potassium|E950|INS 950|950|Ace-K,LOW - Non-sugar sweetener
+Sucralose,E955|INS 955|955,LOW - Non-sugar sweetener
+Saccharin,sodium saccharin|E954|INS 954|954,LOW - Non-sugar sweetener
+Artificial flavour,artificial flavor|artificial flavouring|flavouring substance|flavoring substance,LOW - Flavouring
+Milk solids,milk powder|skimmed milk powder|milk solids,MEDIUM - Allergen/nutrition
+Wheat flour,maida|refined wheat flour|wheat flour,MEDIUM - Refined cereal
+Acrylamide,acrylamide,HIGH - Processing contaminant
+Aflatoxin,aflatoxin|aflatoxins,HIGH - Natural contaminant
+Furfuryl alcohol,furfuryl alcohol,HIGH - Processing contaminant
+Lead,lead,HIGH - Heavy metal contaminant
+Cadmium,cadmium,HIGH - Heavy metal contaminant
+Mercury,mercury,HIGH - Heavy metal contaminant
+Arsenic,arsenic|inorganic arsenic,HIGH - Heavy metal contaminant
+3-MCPD,"3-MCPD|3-monochloropropane-1,2-diol",HIGH - Processing contaminant
+Glycidyl esters,glycidyl esters|GE,HIGH - Processing contaminant
+Polycyclic aromatic hydrocarbons,PAHs|benzo[a]pyrene,HIGH - Processing contaminant
+4-Hydroxynonenal,4-HNE|4-hydroxynonenal,HIGH - Lipid oxidation product
+Advanced glycation end products,AGEs|glycated proteins,HIGH - Processing contaminant
+Nitrosamines,N-nitrosamines|NDMA,HIGH - Processing contaminant
+Ethyl carbamate,ethyl carbamate|urethane,HIGH - Fermentation contaminant
+Methanol,methanol,HIGH - Processing contaminant
+Chloropropanols,"chloropropanols|3-MCPD|1,3-DCP",HIGH - Processing contaminant
+Polychlorinated biphenyls,PCBs|polychlorinated biphenyls,HIGH - Environmental contaminant
+Dioxins,dioxins|PCDD/Fs,HIGH - Environmental contaminant
+Perfluorinated compounds,PFAS|PFOA|PFOS,HIGH - Environmental contaminant
+Microplastics,microplastics|plastic particles,HIGH - Environmental contaminant
+Melamine,melamine,HIGH - Adulterant
+Formaldehyde,formaldehyde,HIGH - Processing contaminant
+Patent Blue V,E131|INS 131|131|Patent Blue,MEDIUM - Synthetic colour
+Green S,E142|INS 142|142,MEDIUM - Synthetic colour
+Black PN,E151|INS 151|115|Brilliant Black BN,MEDIUM - Synthetic colour
+Brown HT,E155|INS 155|155|Chocolate Brown HT,MEDIUM - Synthetic colour
+Lithol Rubine BK,E180|INS 180|180,MEDIUM - Synthetic colour
+Canthaxanthin,E161g|INS 161g|161g,MEDIUM - Synthetic colour
+Sodium phosphates,E339|INS 339|339,MEDIUM - Phosphate additive
+Potassium phosphates,E340|INS 340|340,MEDIUM - Phosphate additive
+Calcium phosphates,E341|INS 341|341,MEDIUM - Phosphate additive
+Ammonium phosphates,E342|INS 342|342,MEDIUM - Phosphate additive
+Magnesium phosphates,E343|INS 343|343,MEDIUM - Phosphate additive
+Sodium polyphosphates,E452|INS 452|452,MEDIUM - Phosphate additive
+Sodium tripolyphosphate,STP|STPP|E451|INS 451|451,MEDIUM - Phosphate additive
+Sodium hexametaphosphate,SHMP|E452|INS 452|452,MEDIUM - Phosphate additive
+Sodium aluminium phosphate,E541|INS 541|541,LOW - Acidity regulator
+Sodium aluminosilicate,E554|INS 554|554,LOW - Anti-caking agent
+Calcium aluminosilicate,E556|INS 556|556,LOW - Anti-caking agent
+Magnesium stearate,E572|INS 572|572,LOW - Anti-caking agent
+Magnesium chloride,E511|INS 511|511,LOW - Firming agent
+Calcium chloride,E509|INS 509|509,LOW - Firming agent
+Magnesium sulphate,E518|INS 518|518,LOW - Firming agent
+Calcium sulphate,E516|INS 516|516,LOW - Firming agent
+Sodium hydroxide,E524|INS 524|524,LOW - Acidity regulator
+Potassium hydroxide,E525|INS 525|525,LOW - Acidity regulator
+Ammonium hydroxide,E527|INS 527|527,LOW - Acidity regulator
+Calcium hydroxide,E526|INS 526|526,LOW - Acidity regulator
+Whole Wheat Flour,"Atta,Whole Wheat,Chakki Atta",Grain
+Refined Wheat Flour,"Maida,All Purpose Flour,Plain Flour,Refined Flour",Grain
+Semolina,"Suji,Rava,Sooji",Grain
+Bengal Gram Flour,"Besan,Gram Flour,Chickpea Flour,Chana Flour",Pulse
+Rice Flour,"Chawal Ka Atta,Rice Powder",Grain
+Corn Flour,"Cornstarch,Corn Starch,Makka Atta",Grain
+Tapioca Starch,"Tapioca Flour,Cassava Starch,Sago Starch",Grain
+Barley Flour,"Jau Atta,Barley Atta",Grain
+Ragi Flour,"Finger Millet Flour,Nachni Atta",Grain
+Jowar Flour,"Sorghum Flour,Cholam Flour",Grain
+Bajra Flour,Pearl Millet Flour,Grain
+Soya Flour,"Soy Flour,Soybean Flour",Grain
+Oats,"Rolled Oats,Oat Flakes,Oatmeal",Grain
+Poha,"Flattened Rice,Beaten Rice,Chiura",Grain
+Sago,"Sabudana,Tapioca Pearls",Grain
+Bran,"Wheat Bran,Rice Bran,Fibre Bran",Fibre
+Wheat Gluten,"Vital Wheat Gluten,Gluten",Allergen
+Edible Starch,"Food Starch,Starch",Carbohydrate
+Yellow Moong Dal,"Moong Dal,Split Green Gram,Green Gram Dal",Pulse
+Toor Dal,"Arhar Dal,Pigeon Pea,Split Pigeon Pea",Pulse
+Chana Dal,"Bengal Gram Dal,Split Chickpea",Pulse
+Urad Dal,"Black Gram,Urad,Minapa Pappu",Pulse
+Masoor Dal,"Red Lentil,Masoor",Pulse
+Rajma,"Kidney Beans,Rajmah",Pulse
+Chickpeas,"Kabuli Chana,Garbanzo Beans,Chana",Pulse
+Green Peas,"Matar,Dried Green Peas",Pulse
+Soya Chunks,"Soya Nuggets,Textured Soya Protein,TVP,Soya Wan",Protein
+Whey Protein,"Whey Protein Isolate,Whey Protein Concentrate",Protein
+Casein,"Micellar Casein,Casein Protein,Caseinate",Protein
+Pea Protein,"Yellow Pea Protein,Pea Protein Isolate",Protein
+Soya Protein Isolate,"SPI,Soy Protein Isolate",Protein
+Egg,"Whole Egg,Eggs,Egg White,Egg Albumen",Protein
+Milk,"Full Cream Milk,Toned Milk,Double Toned Milk",Dairy
+Fresh Cream,"Malai,Cooking Cream,Whipping Cream",Dairy
+Curd,"Dahi,Yogurt,Yoghurt",Dairy
+Whey,"Liquid Whey,Whey Solid",Dairy
+Paneer,"Cottage Cheese,Chhena",Dairy
+Cheese,"Processed Cheese,Cheese Spread,Cheddar Cheese",Dairy
+Condensed Milk,"Sweetened Condensed Milk,Mithai Mate",Dairy
+Evaporated Milk,Thickened Milk,Dairy
+Lactose,Milk Sugar,Dairy
+Whey Permeate,Lactose Permeate,Dairy
+Almond,"Badam,Almonds,Almond Pieces",Nut
+Cashew,"Kaju,Cashew Nuts,Cashews",Nut
+Peanut,"Groundnut,Mungphali,Peanuts,Ground Nuts",Nut
+Walnut,"Akhrot,Walnuts",Nut
+Pistachio,"Pista,Pistachios",Nut
+Hazelnut,"Hazelnuts,Cobnut",Nut
+Raisin,"Kishmish,Dried Grapes,Raisins",Dry Fruit
+Date,"Khajur,Dates,Date Syrup",Dry Fruit
+Coconut,"Copra,Coconut Pieces,Desiccated Coconut",Nut
+Sesame Seeds,"Til,White Sesame",Seed
+Flax Seeds,"Alsi,Linseed,Flaxseed",Seed
+Chia Seeds,"Chia,Salba",Seed
+Pumpkin Seeds,"Pepita,Magaz",Seed
+Sunflower Seeds,"Sunflower Kernel,Sunflower Kernels",Seed
+Turmeric Powder,"Haldi,Ground Turmeric,Haldi Powder",Spice
+Red Chilli Powder,"Lal Mirch,Chili Powder,Cayenne,Red Pepper Powder",Spice
+Coriander Powder,"Dhania Powder,Ground Coriander",Spice
+Cumin Powder,"Jeera Powder,Ground Cumin",Spice
+Cumin Seeds,Jeera,Spice
+Mustard Seeds,"Rai,Sarson,Mustard",Spice
+Black Pepper,"Kali Mirch,Ground Black Pepper,Peppercorns",Spice
+White Pepper,"Dakni Mirch,White Peppercorns",Spice
+Garam Masala,"Indian Spice Mix,Hot Spice Mix",Spice
+Chat Masala,Chaat Masala,Spice
+Fenugreek Leaves,"Kasuri Methi,Dried Fenugreek,Methi Leaves",Spice
+Fenugreek Seeds,Methi Seeds,Spice
+Asafoetida,"Hing,Heeng",Spice
+Cloves,"Laung,Ground Cloves,Clove",Spice
+Cinnamon,"Dalchini,Cassia,Bark Cinnamon,Cinnamon Bark",Spice
+Cardamom,"Elaichi,Green Cardamom,Cardamom Pods",Spice
+Nutmeg,Jaiphal,Spice
+Mace,Javitri,Spice
+Bay Leaf,"Tej Patta,Bay Leaves",Spice
+Curry Leaves,"Kadi Patta,Curry Patta",Spice
+Dry Mango Powder,"Amchur,Amchoor",Spice
+Ginger Powder,"Sonth,Dry Ginger Powder,Saunth",Spice
+Garlic Powder,"Garlic Granules,Dehydrated Garlic",Spice
+Onion Powder,"Dehydrated Onion,Onion Granules",Spice
+Chilli Flakes,"Red Chilli Flakes,Chili Flakes",Spice
+Oregano,"Dried Oregano,Italian Herb",Spice
+Thyme,Dried Thyme,Spice
+Basil,"Sweet Basil,Dried Basil",Spice
+Rock Salt,"Sendha Namak,Pink Salt,Himalayan Pink Salt",Salt
+Black Salt,"Kala Namak,Indian Black Salt",Salt
+Tomato Paste,"Tomato Puree,Tomato Concentrate",Vegetable
+Onion,"Pyaz,Onion Paste,Onion Flakes",Vegetable
+Potato,"Aloo,Potato Flakes,Potato Starch",Vegetable
+Carrot,"Gajar,Dried Carrot",Vegetable
+Spinach,"Palak,Leaf Spinach",Vegetable
+Banana,"Kela,Banana Puree",Fruit
+Mango,"Aam,Mango Pulp,Mango Puree",Fruit
+Apple,"Seb,Apple Pulp",Fruit
+Pineapple,"Ananas,Pineapple Chunks",Fruit
+Orange,"Santra,Orange Pulp",Fruit
+Grapes,"Angoor,Grape Juice Concentrate",Fruit
+Lemon,"Nimbu,Lime,Lemon Juice",Fruit
+Amla,Indian Gooseberry,Fruit
+Pomegranate,"Anar,Pomegranate Arils",Fruit
+Strawberry,"Strawberry Puree,Strawberry Pulp",Fruit
+Blueberry,"Blueberries,Blueberry Pieces",Fruit
+Tea,"Tea Leaves,Chai Leaves,Black Tea,Green Tea",Beverage
+Coffee,"Coffee Powder,Instant Coffee,Coffee Beans,Coffee Extract",Beverage
+Malt Extract,"Malted Barley Extract,Malt Concentrate",Beverage
+Fruit Juice Concentrate,"Fruit Concentrate,Juice Concentrate",Sugar
+Jaggery,"Gur,Cane Jaggery,Jaggery Powder",Sugar
+Brown Sugar,"Demerara Sugar,Raw Sugar",Sugar
+Honey,"Shahad,Natural Honey",Sugar
+Molasses,"Treacle,Blackstrap Molasses",Sugar
+Dextrose Monohydrate,"Dextrose Hydrate,Anhydrous Dextrose",Sugar
+Stevia,"Steviol Glycosides,E960,Stevia Extract,Stevia Powder",Artificial Sweetener
+Thaumatin,"E957,Talin",Artificial Sweetener
+Xylitol,Wood Sugar,Low Calorie Sweetener
+Maltitol,"E965,Maltitol Syrup",Low Calorie Sweetener
+Sorbitol,"E420,Sorbitol Syrup",Low Calorie Sweetener
+Isomalt,E953,Low Calorie Sweetener
+Erythritol,E968,Low Calorie Sweetener
+Mannitol,E421,Low Calorie Sweetener
+Lactitol,E966,Low Calorie Sweetener
+Dimethyl Dicarbonate,"E242,DMDC",Preservative
+Dehydroacetic Acid,"E265,Dehydroacetate",Preservative
+Natamycin,"E235,Pimaricin",Preservative
+Nisin,E234,Preservative
+Lysozyme,"E1105,Egg White Lysozyme",Preservative
+Propyl Paraben,"E216,Paraben,Propyl Hydroxybenzoate",Preservative
+Methyl Paraben,"E218,Methyl Hydroxybenzoate",Preservative
+Tert-Butylhydroquinone,,Antioxidant
+Sodium Erythorbate,"E316,Erythorbate,Isoascorbate",Antioxidant
+Ethylenediamine Tetraacetic Acid,"EDTA,E385,Calcium Disodium EDTA",Antioxidant
+Ascorbyl Palmitate,E304,Antioxidant
+Tocopherols,"Vitamin E,E306,E307,Natural Antioxidant",Antioxidant
+Rosemary Extract,"Carnosic Acid,Rosemary Antioxidant",Antioxidant
+Brilliant Blue,,Artificial Color
+Annatto,"E160b,Annatto Extract",Natural Colour
+Paprika Extract,"E160c,Paprika Colour",Natural Colour
+Chlorophyllin,"E141,Chlorophyll,Copper Chlorophyllin",Natural Colour
+Cochineal,"E120,Carminic Acid,Carmine",Natural Colour
+Curcumin,"E100,Natural Curcumin",Natural Colour
+Lactic Acid,"Sodium Lactate,Lactate,Souring Agent",Acidity Regulator
+Acetic Acid,"E260,Vinegar,Spirit Vinegar",Acidity Regulator
+Tartaric Acid,"E334,Tartrate",Acidity Regulator
+Calcium Lactate,E327,Acidity Regulator
+Potassium Citrate,E332,Acidity Regulator
+Glucono Delta Lactone,"GDL,E575,Gluconolactone",Acidity Regulator
+Sodium Acetate,"E262,Acetate",Acidity Regulator
+Sorbitan Monostearate,"E491,Span 60",Emulsifier
+Polyglycerol Esters,"E475,Polyglycerol Esters Of Fatty Acids",Emulsifier
+Succinylated Monoglycerides,E483,Emulsifier
+Agar Agar,"Agar,E406",Thickener
+Pectin,"E440,Apple Pectin,Fruit Pectin,Citrus Pectin",Thickener
+Acacia Gum,"Gum Arabic,E414,Arabic Gum",Thickener
+Tragacanth,"Gum Tragacanth,E413",Thickener
+Locust Bean Gum,"E410,Carob Gum",Thickener
+Tara Gum,E417,Thickener
+Konjac Gum,"E425,Konjac Glucomannan",Thickener
+Gelatin,"Gelatine,E441,Animal Gelatin",Thickener
+Microcrystalline Cellulose,"MCC,E460i,Cellulose Powder",Thickener
+Inulin,"Chicory Root Extract,Inulin Powder",Fibre
+Psyllium Husk,"Isabgol,Plantago Husk,Ispaghula",Fibre
+Beta Glucan,"Beta-Glucan,Barley Beta Glucan",Fibre
+Baking Powder,"Raising Agent,Baking Mix,Chemical Leavening",Leavening Agent
+Yeast,"Dry Yeast,Active Dry Yeast,Bakers Yeast,Instant Yeast",Leavening Agent
+Ammonium Bicarbonate,"E503,Ammonia Powder",Leavening Agent
+Cream Of Tartar,Potassium Bitartrate,Leavening Agent
+Vanillin,"Synthetic Vanillin,Vanilla Flavour Compound",Flavoring
+Ethyl Vanillin,"Ethavan,Vanilla Essence",Flavoring
+Natural Flavouring,Flavouring Extract,Flavoring
+Chocolate Flavour,"Chocolate Flavor,Cocoa Flavour",Flavoring
+Butter Flavour,"Butter Flavor,Buttery Flavour",Flavoring
+Fruit Flavour,"Fruit Flavor,Mixed Fruit Flavour",Flavoring
+Malt Flavour,"Malt Flavor,Malted Flavour",Flavoring
+Sodium Aluminum Phosphate,"E541,SALP",Phosphate Additive
+Vitamin A,"Retinol,Retinyl Palmitate",Vitamin
+Vitamin B1,"Thiamine,Thiamin,Thiamine Mononitrate",Vitamin
+Vitamin B2,"Riboflavin,Riboflavine",Vitamin
+Vitamin B6,"Pyridoxine,Pyridoxal Hydrochloride",Vitamin
+Vitamin B12,"Cyanocobalamin,Cobalamin",Vitamin
+Niacin,"Vitamin B3,Nicotinamide,Niacinamide",Vitamin
+Pantothenic Acid,"Vitamin B5,Calcium Pantothenate",Vitamin
+Folic Acid,"Folate,Vitamin B9",Vitamin
+Biotin,Vitamin B7,Vitamin
+Vitamin C,"Ascorbic Acid,Ascorbate,Vitamin C Powder",Vitamin
+Vitamin D,"Cholecalciferol,Vitamin D3",Vitamin
+Vitamin K,"Phylloquinone,Vitamin K1",Vitamin
+Choline,Choline Chloride,Vitamin
+Calcium Carbonate,"E170,Chalk,Calcium Supplement",Mineral
+Dicalcium Phosphate,"E341,Calcium Hydrogen Phosphate",Mineral
+Iron,"Ferrous Sulphate,Iron Fumarate,Carbonyl Iron,Iron Pyrophosphate",Mineral
+Zinc,"Zinc Sulphate,Zinc Oxide,Zinc Gluconate",Mineral
+Magnesium,Magnesium Oxide,Mineral
+Potassium Iodide,"Potassium Iodate,Iodine",Mineral
+Sunflower Oil,"Refined Sunflower Oil,Sunflower Seed Oil",Oil/Fat
+Mustard Oil,"Kachi Ghani,Mustard Seed Oil",Oil/Fat
+Groundnut Oil,"Peanut Oil,Arachis Oil",Oil/Fat
+Sesame Oil,"Til Oil,Gingelly Oil",Oil/Fat
+Soyabean Oil,"Soybean Oil,Refined Soyabean Oil",Oil/Fat
+Rice Bran Oil,Refined Rice Bran Oil,Oil/Fat
+Olive Oil,"Extra Virgin Olive Oil,Refined Olive Oil",Oil/Fat
+Canola Oil,Rapeseed Oil,Oil/Fat
+Cocoa Powder,"Cocoa,Unsweetened Cocoa,Cocoa Solids",Chocolate
+Cocoa Butter,"Cocoa Butter Fat,Theobroma Oil",Chocolate
+Chocolate,"Dark Chocolate,Chocolate Liquor",Chocolate
+Custard Powder,"Vanilla Custard Powder,Instant Custard",Mix
