@@ -7,6 +7,7 @@ import os
 import tempfile
 import json
 import io
+import logging
 from datetime import datetime
 from difflib import SequenceMatcher
 from dotenv import load_dotenv
@@ -77,6 +78,7 @@ try:
 except Exception as e:
     PADDLE_AVAILABLE = False
     PADDLE_ERROR = str(e)
+    logging.getLogger(__name__).warning("PaddleOCR unavailable: %s", e)
 
 # RapidOCR = same PP-OCR reading models, much faster runtime (~1.5 sec/scan)
 try:
@@ -86,6 +88,7 @@ try:
 except Exception as e:
     RAPID_AVAILABLE = False
     RAPID_ERROR = str(e)
+    logging.getLogger(__name__).warning("RapidOCR unavailable: %s", e)
 
 # Either engine is enough to scan
 OCR_AVAILABLE = RAPID_AVAILABLE or PADDLE_AVAILABLE
